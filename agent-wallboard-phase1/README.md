@@ -6,18 +6,15 @@
 นี่คือผลการทดสอบส่วนต่างๆ ของระบบเพื่อให้มั่นใจว่าทุกอย่างทำงานได้อย่างถูกต้อง
 
 ### 1. Health check 🌐
-ทดสอบการเชื่อมต่อกับฐานข้อมูล MongoDB สำเร็จ
-
-<img width="1893" height="695" alt="Screenshot 2025-10-03 182955" src="https://github.com/user-attachments/assets/2a2c7b06-5153-4d7d-b447-581676544778" />
+<img width="1004" height="665" alt="Screenshot 2025-10-03 190048" src="https://github.com/user-attachments/assets/e3e01fe8-c17b-4358-9ac2-7fa926c3350d" />
 
 ### 2. Get all agents 🔌
-ทดสอบ Endpoints หลักของ API ทั้งหมดและได้รับการตอบสนองที่ถูกต้อง
 
-<img width="880" height="750" alt="Screenshot 2025-10-03 183213" src="https://github.com/user-attachments/assets/b544e509-06cc-4a03-9e28-f59242de98b3" />
+<img width="1009" height="548" alt="Screenshot 2025-10-03 190054" src="https://github.com/user-attachments/assets/e41679a5-3786-4e66-a827-6bb5a9f6e08c" />
 
 ### 3. Create new agent 📝
-ทดสอบการทำงานของ CRUD (Create, Read, Update, Delete) กับฐานข้อมูล
 
-<img width="900" height="794" alt="Screenshot 2025-10-03 183218" src="https://github.com/user-attachments/assets/433f4d3f-08dc-4dc7-9241-2266b1889318" />
+<img width="1011" height="488" alt="Screenshot 2025-10-03 190057" src="https://github.com/user-attachments/assets/01a28738-77ce-45ed-a4d1-68a02cb5831f" />
+
 
 ---
