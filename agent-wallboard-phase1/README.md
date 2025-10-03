@@ -6,15 +6,15 @@
 นี่คือผลการทดสอบส่วนต่างๆ ของระบบเพื่อให้มั่นใจว่าทุกอย่างทำงานได้อย่างถูกต้อง
 
 ### 1. Health check 🌐
-<img width="1004" height="665" alt="Screenshot 2025-10-03 190048" src="https://github.com/user-attachments/assets/e3e01fe8-c17b-4358-9ac2-7fa926c3350d" />
+<img width="718" height="658" alt="Screenshot 2025-10-03 190209" src="https://github.com/user-attachments/assets/ae354f0f-4177-4747-afe8-2d826e6eaac9" />
+
 
 ### 2. Get all agents 🔌
 
-<img width="1009" height="548" alt="Screenshot 2025-10-03 190054" src="https://github.com/user-attachments/assets/e41679a5-3786-4e66-a827-6bb5a9f6e08c" />
+<img width="686" height="651" alt="Screenshot 2025-10-03 190241" src="https://github.com/user-attachments/assets/3892c698-c7e4-47c5-b3a5-521c15af916d" />
+
 
 ### 3. Create new agent 📝
-
-<img width="1011" height="488" alt="Screenshot 2025-10-03 190057" src="https://github.com/user-attachments/assets/01a28738-77ce-45ed-a4d1-68a02cb5831f" />
 
 
 ---
