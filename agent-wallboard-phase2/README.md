@@ -4,32 +4,6 @@
 
 ---
 
-## ⚙️ การติดตั้ง (Installation)
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/agent-wallboard-API-phase2.git](https://github.com/your-username/agent-wallboard-API-phase2.git)
-    ```
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd agent-wallboard-API-phase2
-    ```
-
-3.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-4.  **Set up environment variables:**
-    สร้างไฟล์ `.env` และกำหนดค่าต่างๆ เช่น `DATABASE_URL`, `PORT` เป็นต้น
-    ```env
-    PORT=3000
-    DATABASE_URL="your_mongodb_connection_string"
-    ```
-
----
-
 ## 🚀 เริ่มต้นใช้งาน (Getting Started)
 
 -   **Run the server:**
