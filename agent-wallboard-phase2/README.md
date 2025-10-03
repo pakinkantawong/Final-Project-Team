@@ -62,10 +62,3 @@ npm run dev
 <img width="904" height="797" alt="Screenshot 2025-10-03 183453" src="https://github.com/user-attachments/assets/48f59c90-bade-4b09-a641-cb5dc6ab7a17" />
 <img width="914" height="790" alt="Screenshot 2025-10-03 183952" src="https://github.com/user-attachments/assets/c54ddeb7-1fbf-47a3-9813-bd7d4b6bc75a" />
 
-🤝 ผู้จัดทำ (Author)
-[ชื่อของคุณ]
-
-GitHub: @your-username
-
-Email: your.email@example.com
-
