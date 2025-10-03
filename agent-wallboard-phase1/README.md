@@ -5,25 +5,19 @@
 
 นี่คือผลการทดสอบส่วนต่างๆ ของระบบเพื่อให้มั่นใจว่าทุกอย่างทำงานได้อย่างถูกต้อง
 
-### 1. ฐานข้อมูล (Database Connection) 🌐
+### 1. Health check 🌐
 ทดสอบการเชื่อมต่อกับฐานข้อมูล MongoDB สำเร็จ
 
 <img width="1893" height="695" alt="Screenshot 2025-10-03 182955" src="https://github.com/user-attachments/assets/2a2c7b06-5153-4d7d-b447-581676544778" />
 
-### 2. API Endpoints 🔌
+### 2. Get all agents 🔌
 ทดสอบ Endpoints หลักของ API ทั้งหมดและได้รับการตอบสนองที่ถูกต้อง
 
 <img width="880" height="750" alt="Screenshot 2025-10-03 183213" src="https://github.com/user-attachments/assets/b544e509-06cc-4a03-9e28-f59242de98b3" />
 
-### 3. CRUD Operations 📝
+### 3. Create new agent 📝
 ทดสอบการทำงานของ CRUD (Create, Read, Update, Delete) กับฐานข้อมูล
 
 <img width="900" height="794" alt="Screenshot 2025-10-03 183218" src="https://github.com/user-attachments/assets/433f4d3f-08dc-4dc7-9241-2266b1889318" />
-
-### 4. ระบบข้อความ (Message System) ✉️
-ทดสอบการส่งและรับข้อความภายในระบบแบบเรียลไทม์
-
-<img width="904" height="797" alt="Screenshot 2025-10-03 183453" src="https://github.com/user-attachments/assets/48f59c90-bade-4b09-a641-cb5dc6ab7a17" />
-<img width="914" height="790" alt="Screenshot 2025-10-03 183952" src="https://github.com/user-attachments/assets/c54ddeb7-1fbf-47a3-9813-bd7d4b6bc75a" />
 
 ---
